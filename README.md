@@ -1,4 +1,4 @@
-# Code
+# Simulation_of_an_automotive_scanner
 
 Serial communication between two microcontrollers ATMEGA 328P which reads TPS signal and encoder pulses of a DC motor speed with a graphical interface in processing, where you can see the revolutions of the motor in RPM, and the position in percentage of the TPS sensor. The interface in processing save a datalogger on a .txt file, of the RPM of the DC motor.
 
